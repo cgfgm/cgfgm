@@ -22,3 +22,4 @@ HakureiQuest,一个在**Android构建领域摸爬滚打**使用github的初学�
 - 帮别人测试Rom
 
 PS: 如果看到我在issue区问蠢问题，请温柔鞭打 (´･ω･`)
+头像来自HJM
