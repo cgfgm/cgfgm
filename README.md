@@ -1,5 +1,5 @@
 # 🌸 你好呀，GitHub Wanderer！  
-[![🏮 御主参上！](https://img.shields.io/badge/Join%20in-2021.01.01-ff69b4)]([](https://api.github.com/users/cgfgm) "「これが私のGitHub修行の始まりでした...」")
+[![\[かわいい\] GitHub修行開始日](https://img.shields.io/badge/🎌_アカウント作成日-2021.01.01-44cc11?style=for-the-badge&logo=visual-studio-code&logoColor=white&link=https://api.github.com/users/cgfgm)](https://api.github.com/users/cgfgm)
 ![Static Badge](https://img.shields.io/badge/Miku-love-39c5bb)
 ![Static Badge](https://img.shields.io/badge/%E4%B8%9C%E6%96%B9project-like-39C5BB)
 ![Static Badge](https://img.shields.io/badge/phigros-like-blue)
