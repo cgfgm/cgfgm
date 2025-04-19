@@ -1,9 +1,8 @@
 # 🌸 你好呀，GitHub Wanderer！  
-![Static Badge](https://img.shields.io/badge/Join%20in-2021.01.01-green)
+[![🏮 御主参上！](https://img.shields.io/badge/Join%20in-2021.01.01-ff69b4)]([https://github.com/cgfgm](https://api.github.com/users/cgfgm) "「これが私のGitHub修行の始まりでした...」")
 ![Static Badge](https://img.shields.io/badge/Miku-love-39c5bb)
 ![Static Badge](https://img.shields.io/badge/%E4%B8%9C%E6%96%B9project-like-39C5BB)
 ![Static Badge](https://img.shields.io/badge/phigros-like-blue)
-![](https://user-images.githubusercontent.com/12072571/174887442-1b32c4a1-1e0a-4e5c-9c4d-6d8d4b3a3f9c.png)
 
 ## 🛠️ 我是谁？  
 HakureiQuest,一个在**Android构建领域摸爬滚打**使用github的初学者
